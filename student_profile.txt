@@ -1,0 +1,4 @@
+Student name : Rohita
+Total marks : 276
+Average marks : 92.0
+Result : Pass
